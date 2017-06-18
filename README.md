@@ -5,7 +5,7 @@
 
 - The deadline is 1st of July.
 - Commit often, and update your Pull Request after each stage, and ask a mentor to review it.
-- We expect status updates on your progress on **Thursday 22nd of July** and **Wednesday 28th of July** by email to **scotland@codeyourfuture.co** (addressed to CodeYourFuture)
+- We expect status updates on your progress on **Thursday 22nd of June** and **Wednesday 28th of June** by email to **scotland@codeyourfuture.co** (addressed to CodeYourFuture)
     - Write a professional email addressing us (the client) asking for more details. Even though most of our communication is through Slack, Emails remain an important communication tool (especially when applying for jobs).
 - Continue communicating on Slack as usual
 
